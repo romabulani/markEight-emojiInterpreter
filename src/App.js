@@ -37,7 +37,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Emoji Interpreter</h1>
-      <input onChange={emojiInterpreter}></input>
+      <input onChange={emojiInterpreter} placeholder="Enter Emoji here"></input>
       <div style={{ padding: "1rem", fontWeight: "bold" }}>
         {interpretation}
       </div>
