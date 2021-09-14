@@ -1,6 +1,8 @@
-# markEight-emojiInterpreter
-Created with CodeSandbox
-A ReactApp Emoji Interpreter done as mark Eight , level Zero assignment of neogcamp.
+# Emoji Interpreter
 
-[Live project link](https://05p4c.csb.app/)
+Description : An app which will tell you the interpretation of the emoji.
+
+Tech Stack : ReactJS
+
+Live project is [here](https://05p4c.csb.app/).
 
